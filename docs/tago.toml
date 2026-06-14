@@ -1,0 +1,10 @@
+title       = "timeapi"
+baseURL     = "https://timeapi-cli.tamnd.com/"
+description = "A command line for timeapi."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/timeapi-cli"
